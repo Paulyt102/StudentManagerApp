@@ -30,6 +30,7 @@ public class Main {
     
     Menu menuObject1 = new Menu();
    menuObject1.display();
+   
     	
     /*	Student student1 = new Student("G00350075");
     	System.out.println( student1.getStudentId() );
